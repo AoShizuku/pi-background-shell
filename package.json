@@ -1,6 +1,6 @@
 {
 	"name": "@aoshizuku/pi-background-shell",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"private": false,
 	"type": "module",
 	"description": "Background shell tasks for pi: run long commands without blocking, get woken up when they exit",
